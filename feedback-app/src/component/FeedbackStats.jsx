@@ -18,9 +18,6 @@ function FeedbackStats() {
     </div>
 }
 
-// FeedbackStats.propTypes = {
-//   feedback: PropTypes.array.isRequired
-// };
 
 export default FeedbackStats
 
